@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/youssefrefaat4/DevOps_Microservices_Project.svg?style=svg)](https://circleci.com/gh/youssefrefaat4/DevOps_Microservices_Project)
 
 ## Project Overview
 
@@ -17,9 +17,6 @@ Your project goal is to operationalize this working, machine learning microservi
 * Deploy a container using Kubernetes and make a prediction
 * Upload a complete Github repo with CircleCI to indicate that your code has been tested
 
-You can find a detailed [project rubric, here](https://review.udacity.com/#!/rubrics/2576/view).
-
-**The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
 ---
 
